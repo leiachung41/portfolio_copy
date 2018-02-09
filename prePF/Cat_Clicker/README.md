@@ -2,7 +2,7 @@
 
 ## Description
 
-This project consists of 5 versions of cat clicker. It is a simple application that when you clicks a cat, counts the cat's clicks. Also, It saves click counts and shows in the application.
+This project consists of 5 versions of cat clicker. It is a simple application that counts the cat's clicks when you clicks a cat. Also, It saves click counts and shows in the application.
 
 ## Features
 
