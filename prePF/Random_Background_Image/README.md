@@ -2,7 +2,7 @@
 
 ## Description
 
-This is practice on a random background image site and used here [Unsplash Source](https://source.unsplash.com/) as a background sources.
+This is practice on a random background image site and used here [Unsplash Source](https://source.unsplash.com/) as background source.
 
 ## Built with
 
