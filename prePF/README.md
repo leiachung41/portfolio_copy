@@ -49,7 +49,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 9. <a href="https://leachung.github.io/Portfolio/Random_Background_Image/index.html" target="_blank">Random Background Image</a>
 - Key Points: **HTML, CSS**
 - GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Random_Background_Image" target="_blank">Portfolio/Random_Background_Image/</a>
-- Description: This is practice on a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as a background sources.
+- Description: This is practice on a random background image site and used here <a href="https://source.unsplash.com/" target="_blank">Unsplash Source</a> as a background source.
 
 ## 10. <a href="https://leachung.github.io/Portfolio/Find_your_Future_Home/index.html" target="_blank">Find your Future Home</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, Google Maps API**
