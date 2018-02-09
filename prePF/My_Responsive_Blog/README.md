@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a responsive blog I developed it as a result of practice like this [index.html](https://leachung.github.io/Portfolio/My_Responsive_Blog/before/index_B4.html). I used the picture element for art direction: different image crops are loaded, depending on viewport size.
+This is a responsive blog I developed as a result of practice like this [index.html](https://leachung.github.io/Portfolio/My_Responsive_Blog/before/index_B4.html). I used the picture element for art direction: different image crops are loaded, depending on viewport size.
 
 ## Built with
 
