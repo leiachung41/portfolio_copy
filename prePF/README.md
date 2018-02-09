@@ -59,7 +59,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 11. <a href="https://leachung.github.io/Portfolio/Cat_Clicker/CatClicker_Premium_V2/index_P_v2.html" target="_blank">Cat Clicker</a>
 - Key Points: **HTML, CSS, JavaScript, jQuery, MVO pattern**
 - GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Cat_Clicker/" target="_blank">Portfolio/Cat_Clicker/</a>
-- Description: This project consists of 5 versions of cat clicker. It is a simple application that when you clicks a cat, counts the cat's clicks. Also, It saves click counts and shows in the application.
+- Description: This project consists of 5 versions of cat clicker. It is a simple application that counts the cat's clicks when you clicks a cat. Also, It saves click counts and shows in the application.
 
 ## 12. <a href="https://leachung.github.io/Portfolio/Build_a_Portfolio_Site/index.html" target="_blank">Build a Portfolio Site</a>
 - Key Points: **HTML, CSS, Grunt, Responsive web**
