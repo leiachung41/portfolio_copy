@@ -104,7 +104,7 @@ Hello, these whole projects are maintained by Lea Chung.
 ## 20. <a href="https://leachung.github.io/Portfolio/Holy_Grail_Layout/index.html" target="_blank">Holy Grail Layout</a>
 - Key Points: **HTML, CSS**
 - GitHub folder: <a href="https://github.com/leachung/Portfolio/tree/master/Holy_Grail_Layout/" target="_blank">Portfolio/Holy_Grail_Layout/</a>
-- Description: This is practice on holy grail layout and I referred <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used css features: float and media query.
+- Description: This is practice on Holy Grail Layout and I referred <a href="http://alistapart.com/article/holygrail" target="_blank">In Search of the Holy Grail</a>. I used css features: float and media query.
 
 ## 21. <a href="https://leachung.github.io/Portfolio/Thumbnail/index.html" target="_blank">Thumbnail</a>
 - Key Points: **HTML, CSS**
