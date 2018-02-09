@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset = "utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Mojs</title>
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+	<style>
+		.message 
+		{	margin-top: 100px;
+			text-align: center;
+			font-size: 2rem;
+		}
+	</style>
+</head>
+<body>
+	<div class="message">If you click anywhere on this window, something will happen. </div>
+	<script src="https://cdn.jsdelivr.net/mojs/latest/mo.min.js"></script>
+	<script text="javascript">
+		var first = new mojs.Shape({
+			shape: 'circle',
+			radius: {0:45},
+			stroke: 'cyan',
+			strokeWidth: {30:0},
+			fill: 'none',
+			left: 0, top: 0,
+			duration: 300,
+		});
+		
+		var seconds = [];
+		var colors = ['deeppink', 'magenta', 'pink', '#f75555'];
+		for(var i=0; i<4; i++){
+			var second = new mojs.Shape({
+				parent: first.el,
+				shape: 'circle',
+				radius: {0:'rand(10,60)'},
+				stroke: colors[i],
+				strokeWidth: {10:0},
+				fill: 'none',
+				left: '50%', top: '50%',
+				x: 'rand(-50,50)', y: 'rand(-50,50)',
+				delay: 250,
+			});
+			seconds.push(second);
+		}
+		
+		document.addEventListener('click', function(e){
+			first.tune({
+				x:e.pageX, 
+				y:e.pageY
+			}).replay();
+			for(var i=0; i<seconds.length; i++) {
+				seconds[i].generate().replay();
+			}
+		})
+	</script>
+</body>
+</html>
